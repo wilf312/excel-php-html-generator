@@ -1,1 +1,1 @@
-header{height:200px}footer{height:200px}/*# sourceMappingURL=src/stylus/layout.css.map */
+*{margin:0;padding:0}@media all and (min-width:641px){.inner{width:980px;margin:0 auto}header{height:200px;background:#00f}}@media all and (max-width:640px){header{height:190px;background:#f00}}@media all and (min-width:641px){footer{height:200px;background:#000;color:#fff}}@media all and (max-width:640px){footer{height:200px;background:#ff0}}footer{height:200px}/*# sourceMappingURL=src/stylus/layout.css.map */
