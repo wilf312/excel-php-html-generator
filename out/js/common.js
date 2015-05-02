@@ -15,6 +15,7 @@
 
 
             $('header')
+                .find('.inner')
                 .text("width : "+ dim.hei +" " +
                       "height : "+ dim.wid +"");
         });
