@@ -1,6 +1,6 @@
 (function() {
 
-    console.log('test');
+    // console.log('test');
 
     var win = $(window);
     var dim = {
@@ -18,5 +18,10 @@
                 .text("width : "+ dim.hei +" " +
                       "height : "+ dim.wid +"");
         });
+
+    setTimeout(function() {
+        win.trigger('scroll.window');
+        console.log('tttt');
+    }, 1500);
 
 })();
