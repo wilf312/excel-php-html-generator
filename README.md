@@ -1,5 +1,7 @@
 # excel-php-html-generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wilf312/excel-php-html-generator.svg)](https://greenkeeper.io/)
+
 ## やりたいこと
 
 * HTMLの生成 → tpl.htmlから htmlを吐き出す この際テンプレを構築する変数はJSONから取得する
